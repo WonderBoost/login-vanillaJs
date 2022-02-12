@@ -1,3 +1,4 @@
+//Enlazar el id de los botones con las funciones de transicion
 document.getElementById("btn-register").addEventListener("click", register);
 document.getElementById("btn-login").addEventListener("click", login);
 
